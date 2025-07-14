@@ -1,1 +1,7 @@
+# depslib dependency file v1.0
+1618609434 source:d:\desktop\stack_expression_a\main.cpp
+	<iostream>
+	"stack_.h"
+
+1618511888 d:\desktop\stack_expression_a\stack_.h
 
