@@ -3,9 +3,7 @@
 
 - [Overview](#overview)
 - [Projects](#projects)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Overview
 
