@@ -1,1 +1,8 @@
+# depslib dependency file v1.0
+1616178384 source:d:\desktop\queue with sequential allocation\main.cpp
+	<iostream>
+	<stdlib.h>
+	"filaalocacaosequencial.h"
+
+1616178399 d:\desktop\queue with sequential allocation\filaalocacaosequencial.h
 
