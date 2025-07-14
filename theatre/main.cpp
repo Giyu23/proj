@@ -19,7 +19,7 @@ int main(void) {
     bool running = true;
     int row = 10, col = 6, newRow, newCol;
     theater = Theater(row, col);
-    setlocale(LC_ALL, "en_US.UTF-8"); // you can remove this if not using Portuguese output
+    setlocale(LC_ALL, "en_US.UTF-8"); 
     system("color 2");
 
     while (running) {
